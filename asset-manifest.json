@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/react-beginners-app.git/static/js/main.75e471fb.js",
+    "main.js": "/react-beginners-app.git/static/js/main.2f3d0a00.js",
     "index.html": "/react-beginners-app.git/index.html",
-    "main.75e471fb.js.map": "/react-beginners-app.git/static/js/main.75e471fb.js.map"
+    "main.2f3d0a00.js.map": "/react-beginners-app.git/static/js/main.2f3d0a00.js.map"
   },
   "entrypoints": [
-    "static/js/main.75e471fb.js"
+    "static/js/main.2f3d0a00.js"
   ]
 }
